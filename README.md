@@ -1,3 +1,9 @@
+> [!WARNING]
+> **Bu depo arşivlendi (6 Kasım 2026).** XIVIZLEY'in güncel sürümü: **[github.com/Xivizley/xivizley](https://github.com/Xivizley/xivizley)** — 150 modül / 35 hazır şablon, DIN EN 61082-1 pafta çıktısı, canlı site: [xivizley.com.tr](https://xivizley.com.tr).
+> Terminal kurulum motoru: **[Xivizley/xivizley-cli](https://github.com/Xivizley/xivizley-cli)** (`npx xivizley`).
+>
+> *This repository is archived and kept for historical reference only. Active development lives at [Xivizley/xivizley](https://github.com/Xivizley/xivizley).*
+
 # XIVIZLEY Architech 📐⚡
 
 <p align="center">
